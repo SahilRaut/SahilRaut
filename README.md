@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahilRaut
-- 👀 I’m interested in  making a Robotics project
+- 👀 I’m interested in Robotics 
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on big Robotics projects
 - 📫 you can reach me by mail at hisahiltech@gmail.com
