@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SahilRaut
 - 👀 I’m interested in Robotics 
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on big Robotics projects
+- 🌱 I’m currently learning Advance Machine Vision in collaboration with ROS
+- 💞️ I’m working on F1Tenth car and CASTOR robot in the BRL,UK
 - 📫 you can reach me by mail at hisahiltech@gmail.com
 
 <!---
