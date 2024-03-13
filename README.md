@@ -13,5 +13,9 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=303033) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=303033) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&color=303033) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C++&color=303033) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=303033) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=303033) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=303033) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=303033) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=303033) ![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&color=303033) ![Bootstrap](https://img.shields.io/badge/-Raspberry%20pi%20-05122A?style=flat&logo=Raspberry-pi&color=303033)
 
+<h2 align="left">🖥️ Hands onk</h2>
+
+![Bootstrap](https://img.shields.io/badge/-Arduino%20Uno-05122A?style=flat-square&logo=Arduino-Uno&color=353535) ![Bootstrap](https://img.shields.io/badge/-Raspberry%20pi%203%2B%2C%203%2C%204-05122A?style=flat-square&logo=Raspberry-pi-3+,-3,-4&color=353535) ![Bootstrap](https://img.shields.io/badge/-ATiny85-05122A?style=flat-square&logo=ATiny85&color=353535) ![Bootstrap](https://img.shields.io/badge/-dsPIC30F4011-05122A?style=flat-square&logo=dsPIC30F4011&color=353535) ![Bootstrap](https://img.shields.io/badge/-ESP32Wroom32%20%20/%20ESP8266-05122A?style=flat-square&logo=ESP32Wroom32-/-ESP8266&color=353535)
+
 
 
