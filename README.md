@@ -7,7 +7,7 @@
 
 
 <h2 align="left">About me</h2>
-<h3 align="left">- 👋 Hi, I’m @SahilRaut<br>- 👀 I’m a 3rd year BEng(Hons) Robotics student</h3>
+<h3 align="left">- I have always been motivated to contribute to the development of robotics for the future. The fact that my expertise in the field can enable me to bring my thoughts and ideas to life, turning a non-existing concept into a beautiful solution, is what attracted me to pursue robotics. I am about to graduate with a BEng(Hons) in Robotics and my goal is to establish myself in the industry, working with a like-minded team and vision to create the next best thing in robotics. I am excited to experience every challenge and success that comes with it.</h3>
 
 ###
 
