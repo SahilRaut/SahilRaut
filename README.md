@@ -9,12 +9,7 @@
 <h2 align="left">About me</h2>
 <h4 align="left">I have always been motivated to contribute to the development of robotics for the future. The fact that my expertise in the field can enable me to bring my thoughts and ideas to life, turning a non-existing concept into a beautiful solution, is what attracted me to pursue robotics. I am about to graduate with a BEng(Hons) in Robotics and my goal is to establish myself in the industry, working with a like-minded team and vision to create the next best thing in robotics. I am excited to experience every challenge and success that comes with it.</h4>
 
-###
-
-<br clear="both">
-
 <h2 align="left">⚙️ Tech Stack</h2>
-
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=303033) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=303033) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&color=303033) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C++&color=303033) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=303033) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=303033) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=303033) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=303033) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=303033) ![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&color=303033) ![Bootstrap](https://img.shields.io/badge/-Raspberry%20pi%20-05122A?style=flat&logo=Raspberry-pi&color=303033)
 
