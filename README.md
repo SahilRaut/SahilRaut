@@ -1,6 +1,9 @@
 
 ![github-header-image](https://github.com/SahilRaut/SahilRaut/assets/66782904/efb0d1ac-f972-418b-9353-fec1b0ba2fcd)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilraut&label=Profile%20views&color=0e75b6&style=flat" alt="sahilraut" /> </p>
+
+
 
 
 <h2 align="left">About me</h2>
