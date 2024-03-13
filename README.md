@@ -23,8 +23,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
 
-<img src="https://github.com/SahilRaut/output/snake.svg" alt="Snake animation" />
-
-###
