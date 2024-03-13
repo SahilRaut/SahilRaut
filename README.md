@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SahilRaut/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/SahilRaut/output/snake.svg" alt="Snake animation" />
 
 ###
