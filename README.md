@@ -38,32 +38,7 @@
 ![Bootstrap](https://img.shields.io/badge/-ESP32Wroom32%20%20/%20ESP8266-05122A?style=flat-square&logo=ESP32Wroom32-/-ESP8266&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-STM32-05122A?style=flat-square&logo=STM32&color=353535)
 
-<table border="0">
-<tr>
-    <td> <!-- Tile 1 -->
-        <a href="https://github.com/ySahilRaut/HRI Game(NAO Robot)">
-            <img src="https://github.com/SahilRaut/SahilRaut/assets/66782904/d015b7d2-895e-46ce-80b5-a43c9fb25797" width="300" height="300" />
-        </a>
-    </td>
-    <td> <!-- Tile 2 -->
-        <a href="https://github.com/SahilRaut/project_2">
-            <img src="https://path_to_your_project_2_image.png" width="300" height="300" />
-        </a>
-    </td>
- </tr>
- <tr>
-    <td> <!-- Tile 3 -->
-        <a href="https://github.com/your_username/project_3">
-            <img src="https://path_to_your_project_3_image.png" width="300" height="300" />
-        </a>
-    </td>
-    <td> <!-- Tile 4 -->
-        <a href="https://github.com/your_username/project_4">
-            <img src="https://path_to_your_project_4_image.png" width="300" height="300" />
-        </a>
-    </td>
- </tr>
-</table>
+
 
 
 
