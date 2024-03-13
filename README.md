@@ -1,4 +1,4 @@
-![Header][github-header-image](https://github.com/SahilRaut/SahilRaut/assets/66782904/d6c1521a-d9d3-469c-9f13-88921cb798f4)
+![github-header-image](https://github.com/SahilRaut/SahilRaut/assets/66782904/d6c1521a-d9d3-469c-9f13-88921cb798f4)
 
 
 
