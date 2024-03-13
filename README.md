@@ -4,7 +4,7 @@
 
 
 <h2 align="left">About me</h2>
-<h3 align="left">- 👋 Hi, I’m @SahilRaut<br>- 👀 I’m a 3rd year BEng(Hons) Robotics student<br>- 🌱 I’m currently learning advanced machine Vision in collaboration with ROS for a lidar sensor by "SICK Sensors"<br>- 💞️ I’m working on the Husky Rover and CASTOR robot in the BRL, UK<br>- 📫 you can reach me by mail at hisahiltech@gmail.com</h3>
+<h3 align="left">- 👋 Hi, I’m @SahilRaut<br>- 👀 I’m a 3rd year BEng(Hons) Robotics student</h3>
 
 ###
 
