@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<h2 align="left">⚙️ Tech Stack</h2>
+<h6 align="left">⚙️ Tech Stack</h6>
 
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=303033) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=303033) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&color=303033) ![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C++&color=303033) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=303033) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=303033) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=303033) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=303033) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=303033) ![Bootstrap](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&color=303033) ![Bootstrap](https://img.shields.io/badge/-Raspberry%20pi%20-05122A?style=flat&logo=Raspberry-pi&color=303033)
