@@ -10,7 +10,7 @@
 
 
 <h2 align="left">🤔 About me</h2>
-<h4 align="left">I love working on robots! The fact that my expertise in the field can enable me to bring my thoughts and ideas to life, turning a non-existing concept into a beautiful solution, is what attracted me to pursue robotics. I am about to graduate with a BEng(Hons) in Robotics and my goal is to establish myself in the industry, working with a like-minded team and vision to create the next best thing in robotics. I am excited to experience every challenge and success that comes with it.</h4>
+<h4 align="left">I love working on robots! The fact that my expertise in the field can enable me to bring my thoughts and ideas to life, turning a non-existing concept into a beautiful solution, is what attracted me to pursue robotics. Graduate with a 1st Class Honours at BEng(Hons) in Robotics and my goal is to establish myself in the industry, working with a like-minded team and vision to create the next best thing in robotics. I am excited to experience every challenge and success that comes with it.</h4>
 
 <h2 align="left">⚙️ Tech Stack</h2>
 
